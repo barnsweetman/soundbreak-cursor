@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "soundbreak": {
+      "url": "https://mcp.soundbreak.ai/cursor/mcp",
+      "auth": {
+        "CLIENT_ID": "soundbreak-cursor",
+        "scopes": ["songs"]
+      }
+    }
+  }
+}
